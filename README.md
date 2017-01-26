@@ -3,6 +3,7 @@ Demo for a Grade
 
 //create
 git init 
+.gitignore
 
 //commands
 git checkout
